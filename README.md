@@ -4,6 +4,7 @@ Este repositorio contiene los **scripts en R** utilizados para el análisis de l
 
 - **Análisis de Componentes Principales (ACP)**
 - **Análisis Discriminante Lineal (LDA)**
+  
 Adicionalmente contiene los **scripts de Python**:
 - **Redes Neuronales**
 - **Árboles de Decisión**
